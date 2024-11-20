@@ -380,7 +380,7 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 25px #801f95;
 }
 
 .home-social-icons:hover {
